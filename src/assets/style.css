@@ -1,0 +1,20 @@
+.h100{
+    height: 100vh;
+}
+.h100p{
+    height: 100%;
+}
+.width350{
+    width: 350px;
+}
+td{
+    max-width: 200px;
+    overflow-x: scroll;
+    overflow-y: scroll;
+    word-break: break-word;
+}
+.square{
+    width: 20px;
+    height: 20px;
+    display: inline-block;
+}
